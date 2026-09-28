@@ -91,3 +91,8 @@ Fluid Level: 4.85m | Flow Velocity: +0.45m/s | [🟦🟦🟦🟦|  🎯  |      
 3. **Run the Notebooks / Scripts:**
    *   Execute the tabular agent script to see the Q-Table training pipeline.
    *   Execute the deep agent script to witness the PyTorch network mastering continuous inertial physics.
+
+## 👨‍💻 Author
+**Mohammed Arif Mahyoub Haider**
+
+*Electrical Engineer - Computer and Industrial Control*
