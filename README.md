@@ -4,6 +4,10 @@ An advanced industrial process control application built using **Reinforcement L
 
 ---
 
+<p align="center">
+  <video src="1.mp4" width="100%" controls autocomplete="off"></video>
+</p>
+
 ## 📌 Project Overview & Evolution
 
 In industrial automation, maintaining critical variables (like fluid levels, pressure, or temperature) at a precise setpoint is vital. Traditional controllers (like PID) rely heavily on manual tuning. This project replaces them with an AI agent that learns purely through environmental interaction.
