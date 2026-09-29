@@ -1,12 +1,19 @@
+
+
 # 🎛️ Autonomous Industrial Tank Level Control: From Q-Learning to Deep Q-Networks (DQN)
 
 An advanced industrial process control application built using **Reinforcement Learning** and **Deep RL** inside the `Gymnasium` framework. This project simulates a chemical fluid tank in a manufacturing plant, demonstrating a complete engineering transition from **Tabular Q-Learning** to **Deep Q-Networks (DQN)** to achieve high-precision, automated control.
 
 ---
 
-<p align="center">
-  <video src="1.mp4" width="100%" controls autocomplete="off"></video>
-</p>
+<img width="1663" height="812" alt="image" src="https://github.com/user-attachments/assets/dcf55d0d-eb86-43f9-8ea8-651ef1d1a4d2" />
+
+
+
+
+<img width="1663" height="812" alt="image" src="https://github.com/user-attachments/assets/9ac6542a-e00d-48ce-b3d4-d19a51348e0e" />
+
+
 
 ## 📌 Project Overview & Evolution
 
